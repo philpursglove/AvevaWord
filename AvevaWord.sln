@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvevaWord", "AvevaWord\AvevaWord.csproj", "{01B8C7A3-5E7A-473C-B2EE-8D2810BCC917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvevaWord.Tests", "AvevaWord.Tests\AvevaWord.Tests.csproj", "{B16E0307-C4F5-4E20-9E56-5667BCAA7312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B8C7A3-5E7A-473C-B2EE-8D2810BCC917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B8C7A3-5E7A-473C-B2EE-8D2810BCC917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B8C7A3-5E7A-473C-B2EE-8D2810BCC917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B8C7A3-5E7A-473C-B2EE-8D2810BCC917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16E0307-C4F5-4E20-9E56-5667BCAA7312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16E0307-C4F5-4E20-9E56-5667BCAA7312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16E0307-C4F5-4E20-9E56-5667BCAA7312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16E0307-C4F5-4E20-9E56-5667BCAA7312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F59019-5B63-4AE6-BB86-498276C1BC72}
+	EndGlobalSection
+EndGlobal
