@@ -25,7 +25,6 @@ namespace AvevaWord
 
                 return containsLetters;
             }
-            return false;
         }
 
         public bool DoesStringContainLettersInSequence(string letters, string toCheck)
@@ -61,9 +60,6 @@ namespace AvevaWord
 
                 return containsSequence;
             }
-
-
-            return false;
         }
     }
 }
